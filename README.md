@@ -16,7 +16,8 @@ This project, developed during my internship at Bharat Intern, showcases a Tempe
 
 ## Project Preview
 
-Include a screenshot or GIF here to demonstrate the Temperature Converter in action.
+![Temperature Converter Preview](tc.png)
+
 
 ## Getting Started
 
